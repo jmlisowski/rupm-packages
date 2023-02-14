@@ -1,4 +1,3 @@
 helloworld
-rush
 discord-update-skip
 rupm
