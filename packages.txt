@@ -1,3 +1,4 @@
 helloworld
+test
 rush
 discord-update-skip
