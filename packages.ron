@@ -5,7 +5,7 @@
         thing: "thing"
     ),
     ( 
-        package: "foobar", 
+        package: "helloworld", 
         version: "0.5.2",
         thing: "test" 
     ),
