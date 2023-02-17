@@ -2,11 +2,9 @@
     ( 
         package: "rupm", 
         version: "1.0.0",
-        thing: "thing"
     ),
     ( 
         package: "helloworld", 
         version: "0.5.2",
-        thing: "test" 
     ),
 ]
